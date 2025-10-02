@@ -1,4 +1,4 @@
-# 📂 Manual QA Repository – OpenCart
+# 📂 – OpenCart-Manual QA Repository 
 
 This repository contains **Manual QA testing artifacts** for the [OpenCart Demo Application](https://demo.opencart.com/).  
 It demonstrates the **end-to-end QA process**, including test design, execution, bug reporting, and requirement traceability.
